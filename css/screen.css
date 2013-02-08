@@ -1,0 +1,14 @@
+#branding img { border: 0px; }
+#site-title { float: left; width: 364px; }
+#access { background: none; float: right; font-weight: bold; height: 26px; margin-top: 34px; }
+#access .rss { margin-bottom: -8px; width: 32px; }
+#access .hidden { visibility: hidden; }
+#footer { padding: 0px 20px; width: 900px; }
+#colophon { border: 0px; width: 100%; }
+#header { border-top: 5px solid red; padding: 0px; }
+#wrapper { margin-top: 0px; }
+#page-title { color: red; float: left; font-size: 25px; font-weight: bold; text-transform: lowercase; margin-top: 40px; }
+#page-title a { color: red; text-decoration: none; }
+.entry-meta { background-color: #666; color: #FFF; float: left; font-weight: bold; height: 22px; margin-right: 20px; padding: 3px 20px; text-align: center; text-transform: lowercase; }
+.entry-title { clear: none; float: left; text-transform: lowercase; }
+hr.hidden { border: none; clear: both; height: 0px; line-height: 0px; margin: 0px; padding: 0px; visibility: hidden; }

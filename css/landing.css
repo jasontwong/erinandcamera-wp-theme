@@ -1,0 +1,15 @@
+body { font-family: "Century Gothic", Arial, sans-serif; font-weight: bold; font-size: 20px; }
+#masthead { position: relative; height: 150px; }
+#masthead .bookmark { left: -75px; position: absolute; top: -6px; display: none; }
+#masthead .social { bottom: 5px; position: absolute; right: 0px; }
+#masthead .social div { color: red; float: left; line-height: 1em; padding: 7px 10px 0 0; }
+#masthead .social img { height: 32px; }
+#wrapper { line-height: 1em; margin-top: 0px; }
+#content.wide { line-height: 1em; margin: 0; }
+#content.wide .bgimg img { width: 940px; }
+#landing-logo { position: absolute; left: -75px; top: 155px; }
+#main { overflow: visible; padding: 0px; position: relative; }
+#footer { font-size: 25px; line-height: 1.3em; padding: 0px; position: relative; width: 940px; }
+#footer a { color: #000; text-decoration: none; }
+#colophon { margin: 0px; padding: 0px; }
+#footer-rule { background-color: red; height: 4px; position: absolute; right: 0px; top: 15px; width: 700px; }

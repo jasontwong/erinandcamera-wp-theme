@@ -1,0 +1,17 @@
+#header { border: none; padding: 20px 0 0; }
+#header .main-nav { width: 231px; }
+#header .main-nav .column { width: 110px; }
+#header .main-nav .left-column { float: left; }
+#header .main-nav .right-column { float: right; }
+#header .main-nav a { background-color: #666; color: white; display: block; font-size: 17px; font-weight: bold; line-height: 1.3em; text-align: center; text-decoration: none; }
+#header .gallery-nav { float: right; margin-right: 35px; text-transform: uppercase; }
+#header .gallery-nav a { background-color: red; color: white; padding: 5px 10px; text-decoration: none; }
+#header .gallery-nav a.selected { background-color: #666; }
+#header .gallery-nav a:active, #header .gallery-nav a:hover { background-color: #666; }
+#wrapper { margin: 0px; padding: 0px; position: relative; width: 100%; }
+#backgrounds { height: 100%; overflow: hidden; position: absolute; width: 100%; }
+#backgrounds img { position: absolute; top: 0px; left: 0px; }
+#left-nav { cursor: pointer; height: 100%; left: 0px; position: absolute; top: 0px; width: 20%; }
+#right-nav { cursor: pointer; height: 100%; position: absolute; right: 0px; top: 0px; width: 20%; }
+#left-nav img { float: right; }
+#left-nav img, #right-nav img { display: none; margin-top: 50%; }
